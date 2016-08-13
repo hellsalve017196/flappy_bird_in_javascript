@@ -1,7 +1,9 @@
 # Install
-
-git clone https://github.com/hellsalve017196/flappy_bird_in_javascript/
-
+```sh
+git clone https://github.com/hellsalve017196/flappy_bird_in_javascript/ bird
+cd bird
+python -m SimpleHTTPServer
+```
 # demo
 http://agatafeedmill.com/flappy/
 
