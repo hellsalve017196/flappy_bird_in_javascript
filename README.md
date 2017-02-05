@@ -7,7 +7,7 @@ python -m SimpleHTTPServer
 go to "http://localhost:8000"
 ```
 # demo
-http://agatafeedmill.com/flappy/
+http://www.aliabdullahkhan.info/projects/flappy_bird
 
 # controlls
 space = for desktop
